@@ -1,0 +1,29 @@
+*{
+    margin:0;padding: 0;box-sizing: border-box;font-family: sans-serif;
+}
+body{
+
+display:flex;
+justify-content: center;
+
+}
+.parrafodos img{
+    width:200px;
+    float:right;
+    margin-right:15px;
+}
+.parrafodos{
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.parrafo{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.parrafo img{
+    width:200px;
+    float:left;
+    margin-right:15px;
+    margin-left: 15px;
+
+}
